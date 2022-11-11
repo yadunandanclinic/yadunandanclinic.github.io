@@ -662,7 +662,7 @@ a:focus {
   margin-bottom: 10px;
 }
 .service i {
-  color: #e12454;
+  color: var(-main-color);
 }
 .service h4 {
   padding-left: 20px;
